@@ -7,10 +7,14 @@
 body {
   background: lightgray;
 }
+
+/* Select img or icon */
 img {
   width: 40px;
   height: 40px;
 }
+
+/* question text */
 .text {
   color: white;
   font-size: 25px;
@@ -20,6 +24,7 @@ img {
   border-bottom: dashed;
 }
 
+/* Main container */
 .container {
   background-color: darkslategrey;
   margin-top: -30px;
@@ -33,6 +38,7 @@ img {
   margin: 100px auto;
   position: relative;
 }
+
 .dropdown .dropdown-btn {
   padding: 15px 20px;
   background: #fff;
@@ -47,7 +53,6 @@ img {
 .dropdown .dropdown-content {
   position: absolute;
   top: 110%;
-  /* left: 0; */
   padding: 10px;
   background: #fff;
   width: 95%;
