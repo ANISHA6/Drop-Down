@@ -1,3 +1,10 @@
+# DropDown--Project
+#### Tech stack: React
+
+###### I have added following features in this project:---
+- On hovering of the button, It will show the drop down items.
+- The dropdown component will receive the items array to display the items in the list.
+- On click of an option in dropdown list, the dropdown will be close.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
